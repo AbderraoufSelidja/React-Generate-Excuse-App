@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Generate-Excuse-App/static/css/main.b639fed0.css",
-    "main.js": "/React-Generate-Excuse-App/static/js/main.d587f046.js",
+    "main.js": "/React-Generate-Excuse-App/static/js/main.71a38244.js",
     "index.html": "/React-Generate-Excuse-App/index.html",
     "main.b639fed0.css.map": "/React-Generate-Excuse-App/static/css/main.b639fed0.css.map",
-    "main.d587f046.js.map": "/React-Generate-Excuse-App/static/js/main.d587f046.js.map"
+    "main.71a38244.js.map": "/React-Generate-Excuse-App/static/js/main.71a38244.js.map"
   },
   "entrypoints": [
     "static/css/main.b639fed0.css",
-    "static/js/main.d587f046.js"
+    "static/js/main.71a38244.js"
   ]
 }
