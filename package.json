@@ -1,6 +1,7 @@
 {
   "name": "rr",
   "version": "0.1.0",
+  "homepage": "https://AbderraoufSelidja.github.io/React-Generate-Excuse-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,9 +11,12 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.14.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
